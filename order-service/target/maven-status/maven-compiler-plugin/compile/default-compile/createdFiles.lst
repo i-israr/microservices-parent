@@ -1,0 +1,9 @@
+com\isrartest\orderservice\dto\OrderRequest.class
+com\isrartest\orderservice\service\OrderService.class
+com\isrartest\orderservice\service\OrderServiceImpl.class
+com\isrartest\orderservice\OrderServiceApplication.class
+com\isrartest\orderservice\model\Order.class
+com\isrartest\orderservice\model\OrderLineItems.class
+com\isrartest\orderservice\repository\OrderRepository.class
+com\isrartest\orderservice\controller\OrderController.class
+com\isrartest\orderservice\dto\OrderLineItemsDto.class

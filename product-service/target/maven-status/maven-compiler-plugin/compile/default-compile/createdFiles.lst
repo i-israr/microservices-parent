@@ -1,0 +1,12 @@
+com\isrartest\productservise\dto\ProductResponse$ProductResponseBuilder.class
+com\isrartest\productservise\dto\ProductResponse.class
+com\isrartest\productservise\model\Product.class
+com\isrartest\productservise\service\ProductServiceImpl.class
+com\isrartest\productservise\service\JacksonConfig.class
+com\isrartest\productservise\controller\ProductController.class
+com\isrartest\productservise\ProductServiceApplication.class
+com\isrartest\productservise\service\ProductService.class
+com\isrartest\productservise\dto\ProductRequest.class
+com\isrartest\productservise\dto\ProductRequest$ProductRequestBuilder.class
+com\isrartest\productservise\model\Product$ProductBuilder.class
+com\isrartest\productservise\repository\ProductRepository.class
